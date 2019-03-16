@@ -1,0 +1,14 @@
+C:\Users\Lucy\Documents\DAM2 Y BOMBAY\AplicacionCocinas\AplicacionCocinas\obj\Debug\AplicacionCocinas.InformeContrato.resources
+C:\Users\Lucy\Documents\DAM2 Y BOMBAY\AplicacionCocinas\AplicacionCocinas\obj\Debug\AplicacionCocinas.IUAyuda.resources
+C:\Users\Lucy\Documents\DAM2 Y BOMBAY\AplicacionCocinas\AplicacionCocinas\obj\Debug\AplicacionCocinas.AnadirContrato.resources
+C:\Users\Lucy\Documents\DAM2 Y BOMBAY\AplicacionCocinas\AplicacionCocinas\obj\Debug\AplicacionCocinas.AnadirCliente.resources
+C:\Users\Lucy\Documents\DAM2 Y BOMBAY\AplicacionCocinas\AplicacionCocinas\obj\Debug\AplicacionCocinas.IUClientes.resources
+C:\Users\Lucy\Documents\DAM2 Y BOMBAY\AplicacionCocinas\AplicacionCocinas\obj\Debug\AplicacionCocinas.IUContrato.resources
+C:\Users\Lucy\Documents\DAM2 Y BOMBAY\AplicacionCocinas\AplicacionCocinas\obj\Debug\AplicacionCocinas.Presupuesto.IUPresupuesto.resources
+C:\Users\Lucy\Documents\DAM2 Y BOMBAY\AplicacionCocinas\AplicacionCocinas\obj\Debug\AplicacionCocinas.Presupuesto.AnadirPresupuesto.resources
+C:\Users\Lucy\Documents\DAM2 Y BOMBAY\AplicacionCocinas\AplicacionCocinas\obj\Debug\AplicacionCocinas.Escritorio.resources
+C:\Users\Lucy\Documents\DAM2 Y BOMBAY\AplicacionCocinas\AplicacionCocinas\obj\Debug\AplicacionCocinas.InformeCliente.resources
+C:\Users\Lucy\Documents\DAM2 Y BOMBAY\AplicacionCocinas\AplicacionCocinas\obj\Debug\AplicacionCocinas.Presupuesto.InformePresupuesto.resources
+C:\Users\Lucy\Documents\DAM2 Y BOMBAY\AplicacionCocinas\AplicacionCocinas\obj\Debug\AplicacionCocinas.Properties.Resources.resources
+C:\Users\Lucy\Documents\DAM2 Y BOMBAY\AplicacionCocinas\AplicacionCocinas\obj\Debug\AplicacionCocinas.csproj.GenerateResource.cache
+C:\Users\Lucy\Documents\DAM2 Y BOMBAY\AplicacionCocinas\AplicacionCocinas\obj\Debug\AplicacionCocinas.exe.licenses
